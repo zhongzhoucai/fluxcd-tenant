@@ -4,4 +4,4 @@ data:
 kind: ConfigMap
 metadata:
   name: example-configmap-1
-  namespace: dev-team
+  namespace: frontend
